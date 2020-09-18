@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<cse>
+	<headings>STUDENT INFORMATION
+	</headings>
+	<section>
+		<student_1>
+			<usn>
+				1AY17CS115
+			</usn>
+			<name>
+				VEERESH B S
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				veeresh.17.becs@acharya.ac.in
+			</mail_id>
+
+		</student_1>
+		<student_2>
+			<usn>
+				1AY17CS117
+			</usn>
+			<name>
+				VINAY KUMAR V
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				vinaykumarv.17.becs@acharya.ac.in
+			</mail_id>
+			
+		</student_2>
+		<student_3>
+			<usn>
+				1AY17CS108
+			</usn>
+			<name>
+				THARRUN V S
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				tharun.17.becs@acharya.ac.in
+			</mail_id>
+			
+		</student_3>
+		<student_4>
+			<usn>
+				1AY17CS009
+			</usn>
+			<name>
+				SUMANTH K R
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				sumanth.17.becs@acharya.ac.in
+			</mail_id>
+			
+		</student_4>
+		<student_5>
+			<usn>
+				1AY17CS113
+			</usn>
+			<name>
+				MANIKANTHA V
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				manikantha.17.becs@acharya.ac.in
+			</mail_id>
+			
+		</student_5>
+		<student_6>
+			<usn>
+				1AY17CS107
+			</usn>
+			<name>
+				TEJAS
+			</name>
+			<college_name>
+				AIT
+			</college_name>
+			<branch>
+				CSE
+			</branch>
+			<mail_id>
+				tejas.17.becs@acharya.ac.in
+			</mail_id>
+			
+		</student_6>
+		
+		
+
+	</section>
+</cse>
