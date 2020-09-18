@@ -1,0 +1,65 @@
+cse
+{
+	background: #1111;
+	font-style: italic;
+
+}
+headings
+{
+	
+	background: orange;
+	font-size: 30px;
+	padding: 22px;
+    text-align: center;
+
+
+}
+
+
+
+
+name
+{
+	display: block;
+	margin-left: 20px;
+	font-size: 20px;
+	color: navy;
+	background: default;
+}
+
+usn
+{
+	display: block;
+	margin-top: 20px;
+	color: #0f2f;
+	background: black;
+	padding: 10px;
+	font-size: 24px;
+}
+
+college_name
+{
+	display: block;
+	margin-left: 20px;
+	font-size: 15px;
+	color: #navy;
+	background: default;
+}
+
+branch
+{
+	display: block;
+	margin-left: 20px;
+	font-size: 15px;
+	color: navy;
+	background: default;
+}
+
+mail_id
+{
+	display: block;
+	margin-left: 20px;
+	font-size: 15px;
+	color: #00f9;
+	background: default;
+}
